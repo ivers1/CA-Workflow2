@@ -1,0 +1,24 @@
+{
+  "name": "ca-workflow2",
+  "version": "1.0.0",
+  "description": "Automation of webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivers1/CA-Workflow2.git"
+  },
+  "author": "Ørjan Iversen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivers1/CA-Workflow2/issues"
+  },
+  "homepage": "https://github.com/ivers1/CA-Workflow2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
